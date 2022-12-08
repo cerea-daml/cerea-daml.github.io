@@ -1,2 +1,4 @@
 # cerea-daml.github.io
-Website for the CEREA-DAML team
+
+This is the website for the CEREA DA-ML team (still under construction).
+Access [here](https://cerea-daml.github.io/).
